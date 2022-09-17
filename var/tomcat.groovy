@@ -1,3 +1,3 @@
-def call ("ip"){
-    echo ${ip}
+def call (ip){
+    echo "${ip}"
 }
